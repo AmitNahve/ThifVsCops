@@ -1,0 +1,15 @@
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\bin\Debug\WpfOpenningWindowDesign.exe.config
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\bin\Debug\WpfOpenningWindowDesign.exe
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\bin\Debug\WpfOpenningWindowDesign.pdb
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\MainWindow.g.cs
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\App.g.cs
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign_MarkupCompile.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign_MarkupCompile.lref
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\MainWindow.baml
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.g.resources
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.Properties.Resources.resources
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.csproj.GenerateResource.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.exe
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\WpfOpenningWindowDesign\obj\Debug\WpfOpenningWindowDesign.pdb

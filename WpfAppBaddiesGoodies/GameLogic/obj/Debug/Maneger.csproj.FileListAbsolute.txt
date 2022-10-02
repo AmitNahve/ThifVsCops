@@ -1,0 +1,6 @@
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\obj\Debug\Maneger.csproj.AssemblyReference.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\obj\Debug\Maneger.csproj.CoreCompileInputs.cache
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\Amit\source\repos\FirstProjectGoodiesBaddies\WpfAppBaddiesGoodies\GameLogic\obj\Debug\GameLogic.pdb

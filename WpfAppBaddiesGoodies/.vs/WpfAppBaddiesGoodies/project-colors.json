@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f59080e4-d011-4417-a347-902a2e1d4067": {
+      "ProjectGuid": "f59080e4-d011-4417-a347-902a2e1d4067",
+      "DisplayName": "WpfAppBaddiesGoodies",
+      "ColorIndex": 0
+    },
+    "dcb8e8a7-50bf-4421-8bac-ad1e41eae5a5": {
+      "ProjectGuid": "dcb8e8a7-50bf-4421-8bac-ad1e41eae5a5",
+      "DisplayName": "GameLogic",
+      "ColorIndex": 1
+    },
+    "4cb6d579-7bc1-4c38-bf01-c6f20f6847f9": {
+      "ProjectGuid": "4cb6d579-7bc1-4c38-bf01-c6f20f6847f9",
+      "DisplayName": "Model",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
