@@ -1,5 +1,6 @@
 # ThifVsCops
-C# Game built using OOP and WPF
+Game built using C# OOP and WPF.
+
 # 🖥 Some ScreenShots
 
 <img width="1439" alt="צילום מסך" src="https://user-images.githubusercontent.com/109516600/193448951-b602811f-b733-42c0-90cf-fba6ce15eb46.png">
